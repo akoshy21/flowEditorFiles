@@ -1,0 +1,30 @@
+[
+  {
+    "id": "happy",
+    "name": "Happy"
+  },
+  {
+    "id": "sad",
+    "name": "Sad"
+  },
+  {
+    "id": "angry",
+    "name": "Angry"
+  },
+  {
+    "id": "irritated",
+    "name": "Irritated"
+  },
+  {
+    "id": "disgusted",
+    "name": "Disgusted"
+  },
+  {
+    "id": "neutral",
+    "name": "Neutral"
+  },
+  {
+    "id": "afraid",
+    "name": "Afraid"
+  }
+]
